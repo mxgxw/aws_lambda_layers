@@ -4,7 +4,7 @@ This repository contains my personal collection of AWS lambda layers for Python.
 To prepare a layer open any of the folders and run:
 
 ```bash
-./update_layer.sh
+./update_requirements.sh
 ./make_layer.sh
 ```
 ## Available Layers
